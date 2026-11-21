@@ -1,0 +1,16 @@
+{
+  "name": "Rally 833",
+  "short_name": "Rally 833",
+  "description": "Desert rally racing: buggy #833 across Moroccan dunes, Saudi rocks and the sands of Petra.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#2a160b",
+  "theme_color": "#2a160b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
